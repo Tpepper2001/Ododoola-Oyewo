@@ -122,7 +122,11 @@ const App = () => {
           <div className="w-full md:w-1/2">
             {/* Placeholder for Image */}
             <div className="bg-slate-200 w-full h-96 rounded-2xl flex items-center justify-center text-slate-400">
-              [Ododoola's Photo]
+              <img 
+  src="https://drive.google.com/thumbnail?id=1vNf-LFFeZtMNYDFiHPqI3gfynFGNzBg4&sz=w1000" 
+  alt="Ododoola Oyewo" 
+  className="w-full h-[450px] object-cover rounded-2xl shadow-lg"
+/>
             </div>
           </div>
           <div className="w-full md:w-1/2">
